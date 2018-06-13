@@ -115,9 +115,3 @@ You will explore the transaction with the hash: `0x5edb69874d0900d8857468fbe5371
     - the Gas used,
     - the Gas Limit,
     - the sender and receiver of the transaction.
-
-
-Mining is the process to secure the network by validating the computation, collecting them to form a block, verifying them and broadcasting it.
-
-GASLIMIT = the amount of gas points available
-GASSPENT = actual amount spent at completion of block creation
