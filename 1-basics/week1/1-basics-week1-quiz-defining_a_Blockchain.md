@@ -1,6 +1,7 @@
 # Week 1 - Defining a Blockchain
 
 ## Quiz Resources
+
 The following resources are provided to assist you in answering the quiz questions. We would like to acknowledge the authors of the various websites for their platform and transactions which help formed the basis for some sections of the lessons and modules.
 
 Resources:
